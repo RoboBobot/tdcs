@@ -1,5 +1,7 @@
 # An LT3092 based tDCS driver
 
+# WARNING: Currently un-tested.
+
 ## Main Features
 
 * Adjustable current from 0.7mA to 2.1mA. 
